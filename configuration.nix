@@ -12,6 +12,7 @@
       ./monitoring.nix
       ./power.nix
       ./netbird.nix
+      ./automation.nix
     ];
 
   # Use the GRUB 2 boot loader.
